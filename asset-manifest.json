@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SeshuYaswanth/breaking-bad.git/static/css/main.e0d45dc0.css",
+    "main.js": "/SeshuYaswanth/breaking-bad.git/static/js/main.2550fdd9.js",
+    "static/media/spinner.gif.url": "/SeshuYaswanth/breaking-bad.git/static/media/spinner.gif.11d9cde8ebaeadb07ba7.url",
+    "static/media/bg.jpg.url": "/SeshuYaswanth/breaking-bad.git/static/media/bg.jpg.085908ea8f76e1ae1806.url",
+    "static/media/logo.png.url": "/SeshuYaswanth/breaking-bad.git/static/media/logo.png.e6ecab4407f10ecd02bd.url",
+    "index.html": "/SeshuYaswanth/breaking-bad.git/index.html",
+    "main.e0d45dc0.css.map": "/SeshuYaswanth/breaking-bad.git/static/css/main.e0d45dc0.css.map",
+    "main.2550fdd9.js.map": "/SeshuYaswanth/breaking-bad.git/static/js/main.2550fdd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d45dc0.css",
+    "static/js/main.2550fdd9.js"
+  ]
+}
